@@ -13,19 +13,35 @@ NLP TASKS:
 Following is a list of tasks undertaken:
 
 -Top 5 most active accounts (based on number of tweets)
+
 -Most popular tweet
+
 -Total tweets
+
 -Sentiment Analysis
+
 -Pie Chart showing sentiment distribution
+
 -Top 5 Positive Tweets & Top 5 Negative tweets
+
 -Automatic summarization using Gensim
+
 -TlDr generation using GPT-3
+
 -Most popular hashtags
+
 -Most popular tweeter
+
 -Overall Sentiment (Emoji to Image)
+
 -Wordcloud
+
 -Keyword Extraction using KeyBert
+
 -Tweets per minute (bar graph)
+
 -Top 5 most active countries and regions (extracted using location tagger)
+
 -Clustering Tweets using Word Embeddings and PCA and KMeans
+
 -Network graph for text from user descriptions (using networkx)
